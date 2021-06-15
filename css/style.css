@@ -1,0 +1,33 @@
+html {
+    background-color: black;
+    align-items: center;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+
+footer {
+    text-align: right;
+    color: gray;
+}
+
+.link {
+    color: aquamarine;
+    font-size: 16px;
+    text-decoration-line: underline;
+}
+
